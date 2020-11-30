@@ -1,0 +1,6 @@
+{
+  "git.ignoreLimitWarning": true,
+  "prettier.arrowParens": "avoid",
+  "prettier.endOfLine": "auto",
+  "prettier.singleQuote": true
+}
