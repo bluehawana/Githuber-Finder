@@ -8,6 +8,6 @@ Then you can try to search your name or anyone else from the search bar! Have fu
 Hope I could run some new social media platforms, while their API are not that open as Github. 
 So, wish we could do something more than right now.
 
-<p>
-  
+<p align:center>
+  <img src="https://github.com/bluehawana/Githuber-Finder/blob/main/Search%20by%20%22Jack%22.png">
 <p>
